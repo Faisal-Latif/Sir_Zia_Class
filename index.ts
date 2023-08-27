@@ -3,3 +3,4 @@ function sum (num1:number,num2:number){
 }
 
 console.log(sum(2,3));
+console.log("Something");
